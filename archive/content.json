@@ -1,0 +1,19 @@
+{
+    "about": {
+      "title": "About Me",
+      "body": "Olá! Sou Marcel Guimarães, Desenvolvedor Full-Stack apaixonado por soluções web inovadoras. Com conhecimentos em Front-End e Back-End, aplico metodologias ágeis como Scrum e Kanban para agilizar e otimizar todo processo. Valorizo o trabalho em equipe e a comunicação para alcançar resultados excepcionais. Sempre atualizado com as últimas tecnologias, busco resolver problemas de forma criativa. Vamos trabalhar juntos para projetos impactantes!"
+    },
+    "skills": {
+      "title": "Skills",
+      "body": "REST API | JavaScript | TypeScript | React | Node.js | HTML | CSS | Bancos de Dados | Testes Automatizados | Python | MERN | SQL | MySQL | Software Development | HTML5 | Git | GitHub | MongoDB | Next.js | Prisma ORM"
+    },
+    "projects": {
+      "title": "Projects",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non diam odio. Sed luctus aliquet velit, nec vulputate nulla tincidunt eu."
+    },
+    "contact": {
+      "title": "Contact",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non diam odio. Sed luctus aliquet velit, nec vulputate nulla tincidunt eu."
+    }
+  }
+  
